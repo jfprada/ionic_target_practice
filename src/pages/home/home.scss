@@ -1,8 +1,15 @@
 page-home {
+
+    $toolbar-md-title-text-color: map-get($colors , black);
+    
      h1 {
         color: map-get($colors , white);    
     }
    
+    .text-footer{
+        color: #000000 !important;
+    }
+
 }
 
 
